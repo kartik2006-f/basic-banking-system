@@ -77,7 +77,76 @@ Copy code
                     │   BankingSystem    │
                     │--------------------│
                     │ + main()           │
-                    └────────────────────┘
+                    └────────────────────┘Security Layer
+
+Handles authentication, authorization, and encryption
+
+Firewalls, intrusion detection systems  
+
+Admin & Role-Based Access
+
+User roles and permission management
+
+Audit logs for system changes
+
+System settings and configurations
+
+System Structure (Architecture) 
+
+Web and mobile interfaces for customers and employees
+
+Tools: React, Angular, Flutter, etc.
+
+Internet & Mobile Banking
+
+Secure user login and authentication
+
+Account access, bill payments, fund transfers
+
+Notification services (SMS, Email)
+
+ Security and Compliance
+
+Multi-factor authentication (MFA)
+
+Data encryption and secure APIs
+
+Compliance with local and international banking regulations
+
+ Reports and Analytics
+
+Daily transaction reports
+
+Financial summaries and customer insights
+
+Regulatory reports , anti-money laundering)
+
+
+Account Management
+
+Create/manage different types of accounts (savings, current, fixed deposit)
+
+Balance inquiry and transaction history
+
+Interest calculation and application
+
+3. Transaction Management
+
+Deposit and withdrawal processing
+
+Fund transfers (internal and external)
+
+Transaction validation and audit trail
+Core Features of a Banking Management System
+
+1. Customer Management
+
+Customer onboarding and KYC (Know Your Customer)
+
+Personal and contact information management
+
+Customer account 
+
 🧾 Sample Java Code
 Abstract Class BankAccount
 java
